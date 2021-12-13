@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'TypeScript', 'Node.js', 'Java', 'C++', 'PHP', 'MongoDB', 'Azure', 'AWS', 'GCP'];
+  const skills = ['JavaScript', 'TypeScript', 'Node.js', 'Python', 'Java', 'C++', 'PHP', 'MongoDB', 'Microsoft Azure', 'Amazon Web Services', 'Google Cloud Platform'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -138,14 +138,15 @@ const About = () => {
             <p>
               <b> <span >C</span>reative • <span  >A</span>mbitious • <span >P</span>assionate
               </b>
+              <br/>
               An optimist who believes in a bright future and ability to build,learn & explore every horizon of technology.I’m slowly attempting to stair-step my way to entrepreneurship while staying sane, giving back, and living well. My passion is split between my love for amazing Engineering-Technology and my drive to design graphics & create videos. Also I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.
 
             </p>
-            <span>| Focus |</span>
+            <span><b>| Focus |</b></span>
             <p>
               The focus of my work shifts as the need arises for certain skills in the working environment. This can be both a positive and negative experience, on the one hand you can hone your skills in an in-demand area, but on the other hand you’re ready to explore different areas. This is why I explore ideas and concepts outside of my work so I always have something new to share.
             </p>
-            <span>| ABOVE AND BEYOND |</span>
+            <span><b>| ABOVE AND BEYOND |</b></span>
             <p>
               My work doesn’t end with the brief. Going above and beyond the parameters that have been set out is essential, not only for your own personal achievement and development but it reflects back into the work you produce for clients.
             </p>
