@@ -151,7 +151,7 @@ const About = () => {
               My work doesn’t end with the brief. Going above and beyond the parameters that have been set out is essential, not only for your own personal achievement and development but it reflects back into the work you produce for clients.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I’ve worked on:</p>
           </div>
 
           <ul className="skills-list">
