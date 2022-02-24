@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer building cloud native apps & micro-services. Currently, I’m focused on building backend API services 
-        at{' '}
+        I’m a software engineer building cloud native apps & micro-services. Currently, I’m focused
+        on building backend API services at{' '}
         <a href="https://www.zymr.com/" target="_blank" rel="noreferrer">
           ZYMR
         </a>
@@ -76,7 +76,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://drive.google.com/file/d/1CrKyej5dzUT32zbR3KopKqGrnMhe06oC/view"
+      href="https://drive.google.com/file/d/1gA-DoEW9aGDzkO1jD_Faj_MjgDTcdpvU/view?usp=sharing"
       target="_blank"
       rel="noreferrer">
       Download CV

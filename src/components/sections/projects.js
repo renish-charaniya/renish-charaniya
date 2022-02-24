@@ -141,6 +141,10 @@ const StyledProject = styled.li`
     a {
       ${({ theme }) => theme.mixins.inlineLink};
     }
+
+    p {
+      text-align: justify;
+    }
   }
 
   .project-tech-list {

@@ -4,9 +4,12 @@ module.exports = {
   siteMetadata: {
     title: 'Renish Charaniya',
     description:
-      'Renish Charaniya is a software engineer software engineer building cloud native apps & micro-services.',
+      'An optimist who believes in a bright future and ability to build,learn & explore every horizon of technology.I’m slowly attempting to stair-step my way to entrepreneurship while staying sane, giving back, and living well. My passion is split between my love for amazing Engineering-Technology and my drive to design graphics & create videos. Also I like working in a team, you\'ll learn faster and much more. As the saying goes: "two heads are better than one".',
+    keywords:
+      'renish,charaniya,renish charaniya,renishcharaniya,renish999sroyce,Renish,renish_charaniya,renish-charaniya,renish-charania,renish_charania',
+    author: '@renish_charaniya',
     siteUrl: 'https://renishcharaniya.tech', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/me.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'renish_charania',
   },
   plugins: [
@@ -26,7 +29,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/me.png',
       },
     },
     `gatsby-plugin-offline`,
