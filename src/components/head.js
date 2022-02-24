@@ -19,6 +19,8 @@ const Head = ({ title, description, image }) => {
             siteUrl
             defaultImage: image
             twitterUsername
+            keywords
+            author
           }
         }
       }
@@ -31,6 +33,8 @@ const Head = ({ title, description, image }) => {
     siteUrl,
     defaultImage,
     twitterUsername,
+    keywords,
+    author,
   } = site.siteMetadata;
 
   const seo = {
@@ -38,6 +42,8 @@ const Head = ({ title, description, image }) => {
     description: description || defaultDescription,
     image: `${siteUrl}${image || defaultImage}`,
     url: `${siteUrl}${pathname}`,
+    keywords: keywords,
+    author: author,
   };
 
   return (
@@ -46,6 +52,8 @@ const Head = ({ title, description, image }) => {
 
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
+      <meta name="keywords" content={seo.keywords} />
+      <meta name="author" content={seo.author} />
 
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />

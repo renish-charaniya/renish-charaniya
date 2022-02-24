@@ -68,6 +68,7 @@ const StyledCredit = styled.div`
 `;
 
 const Footer = () => {
+  const date = new Date();
   const [githubInfo, setGitHubInfo] = useState({
     stars: null,
     forks: null,
@@ -106,7 +107,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/renish-charaniya">
-          <div>© 2021 Renish Charaniya. All rights reserved.</div>
+          <div>© {date.getFullYear()} Renish Charaniya. All rights reserved.</div>
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
