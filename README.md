@@ -45,7 +45,7 @@ Latest Blog Posts RSS feed
 <code><img height="20" src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg"></code>
 
 
-**Exploring My Varied Passions: From Programming and Astronomy to Travel and Music**
+**Exploring My Varied Passions: From Programming and AI to Travel and Music**
 
 - I am interested in programming, learning different languages, and studying software architecture.
 - I enjoy discovering and analyzing new information through various sources such as blogs.
