@@ -48,13 +48,12 @@ Latest Blog Posts RSS feed
 **Exploring My Varied Passions: From Programming and Astronomy to Travel and Music**
 
 - I am interested in programming, learning different languages, and studying software architecture.
-- Astronomy fascinates me, and I enjoy discovering and analyzing new information through various sources such as blogs.
+- I enjoy discovering and analyzing new information through various sources such as blogs.
 - In my free time, I enjoy browsing through websites like Reddit and 9gag.
 - I have a passion for traveling and experiencing nature.
-- World affairs and geopolitics are subjects that I find interesting and like to stay informed about.
-- Music is a significant part of my life, and while I prefer singing alone, I also enjoy listening to various genres.
+- World affairs and geopolitics are the subjects that I find interesting and like to stay informed about.
 - I have an interest in technology and gadgets, particularly keeping up-to-date with the latest advancements and releases.
-- I enjoy playing reading newsletters & I spend most of my time in training my second brain.<img height="20" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/brain.svg">
+- I enjoy reading newsletters & I spend most of my time in training my second brain.<img height="20" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/brain.svg">
 
 <i>❝Elevating backend brilliance: Crafting tomorrow's digital infrastructure, one line of code at a time.❞</i>
 
