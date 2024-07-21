@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/renish-charaniya/">
-  <img align="left" alt="Renish's Linkedin" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/75525ebae050d9008020a955d02912e7edcc3af3/assets/linkedin.svg" />
+  <img align="left" alt="Renish's Linkedin" width="25px" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/linkedin.svg" />
 </a>
 <a href="https://twitter.com/SujeetAgrahari_">
   <img align="left" alt="Sujeet Agrahari | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
