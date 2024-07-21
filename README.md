@@ -24,7 +24,8 @@ Greetings, I am Renish Charaniya, and I am a dynamic Backend Software Engineer b
 
 <a href="https://renishcharaniya.tech/feed.xml">
   <img align="left" alt="Renish's blogs" width="25px" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/rss.svg" />
-</a> Latest Blog Posts RSS feed 
+Latest Blog Posts RSS feed 
+</a> 
 
 
 <br />
