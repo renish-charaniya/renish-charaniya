@@ -1,4 +1,4 @@
-### Hi there, I'm [Sujeet!](https://sujeet-agrahari.github.io) 👋
+### Hi there, I'm [Renish!](https://renishcharaniya.tech) 👋
 
 
 <a href="https://www.linkedin.com/in/renish-charaniya/">
