@@ -36,15 +36,14 @@ Latest Blog Posts RSS feed
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+<code><img height="20" src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg"></code>
+
 
 **Exploring My Varied Passions: From Programming and Astronomy to Travel and Music**
 
@@ -55,9 +54,9 @@ Latest Blog Posts RSS feed
 - World affairs and geopolitics are subjects that I find interesting and like to stay informed about.
 - Music is a significant part of my life, and while I prefer singing alone, I also enjoy listening to various genres.
 - I have an interest in technology and gadgets, particularly keeping up-to-date with the latest advancements and releases.
-- I enjoy playing chess as a mental challenge.
+- I enjoy playing reading newsletters & I spend most of my time in training my second brain.<img height="20" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/obsi.svg">
 
-<i>❝Just as the sun and moon take turns illuminating the sky, I am captivated by the complementary interplay of kebab-case and camelCase, working in harmony to craft elegant and functional code.❞</i>
+<i>❝Elevating backend brilliance: Crafting tomorrow's digital infrastructure, one line of code at a time.❞</i>
 
 | <a href="https://github.com/sujeet-agrahari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujeet's github stats" /></a> | <a href="https://github.com/sujeet-agrahari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-agrahari&layout=compact&theme=buefy&hide_border=true" /></a> |
 | --- | --- |
