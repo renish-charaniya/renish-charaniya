@@ -4,21 +4,21 @@
 <a href="https://www.linkedin.com/in/renish-charaniya/">
   <img align="left" alt="Renish's Linkedin" width="25px" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/linkedin.svg" />
 </a>
-<a href="https://twitter.com/SujeetAgrahari_">
-  <img align="left" alt="Sujeet Agrahari | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/bubbikins_royce">
+  <img align="left" alt="Renish Charaniya | X" width="25px" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/twitter.svg" />
 </a>
 
 <br />
 <br />
 
-Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer hailing from India.
+Greetings, I am Renish Charaniya, and I am a dynamic Backend Software Engineer based in India 🇮🇳.
 
-- 👯 I’m looking to collaborate on [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design) and [Node Express Clean Architecture](https://github.com/sujeet-agrahari/node-express-clean-architecture)
-- 💬 Ask me about anything [here](https://github.com/sujeet-agrahari/sujeet-agrahari/issues)
-- 📚 Read my blog [here](https://sujeet-agrahari.hashnode.dev/)
+- 👯 I’m looking to collaborate on [Plough Jobs](https://github.com/renish-charaniya/plough-jobs) and [Job Assure](https://github.com/renish-charaniya/jobassure)
+- 💬 Ask me about anything [here](https://github.com/renish-charaniya/renish-charaniya/issues)
+- 📚 Read my blog [here](https://renishcharaniya.tech/blog)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
+<i>❝"Code is like humor. When you have to explain it, it’s bad." – Cory House   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
@@ -26,22 +26,10 @@ Greetings, my name is Sujeet Agrahari, and I am a dedicated  backend engineer ha
 
 ---
 
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://sujeet-agrahari.hashnode.dev//opaque-vs-jwt-refresh-tokens-making-the-secure-choice-for-your-application" title="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698236507807/96b9e67e-ef93-423d-99d8-fd5f59367f38.jpeg" alt="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application" width="250px" align="left" /></a>
-  
-<a href="https://sujeet-agrahari.hashnode.dev//opaque-vs-jwt-refresh-tokens-making-the-secure-choice-for-your-application" title="Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application"><strong>Opaque vs. JWT Refresh Tokens: Making the Secure Choice for Your Application</strong></a>
-<br/> As software developers, we have a limited 'performance' coins. It's up to us to decide where to spend it, either on 'security' or 'user experience.' Make your choice wisely.
+<!-- BLOG:START -->
+<iframe src="https://renishcharaniya.tech/blog" title="Blog posts" width="600" height="400"></iframe>
 
-Why do we need a refresh token?
-We need a refresh token to maintain user se... </p> <br/> <br/>
-<p align="left">
-<a href="https://sujeet-agrahari.hashnode.dev//mastering-postgresql-vacuuming" title="Mastering PostgreSQL Vacuuming"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_gOVBtmpkks/upload/0d9b1ebab2c8ef67c56dd5cefc860bd3.jpeg" alt="Mastering PostgreSQL Vacuuming" width="250px" align="left" /></a>
-<a href="https://sujeet-agrahari.hashnode.dev//mastering-postgresql-vacuuming" title="Mastering PostgreSQL Vacuuming"><strong>Mastering PostgreSQL Vacuuming</strong></a>
-<br/> Vacuuming is used for periodic maintenance of the PostgreSQL database.
-Generally, it is enough to let vacuuming be performed by the autovacum process.
-Autovacuum is on by default in PostgreSQL. To confirm, you can check by running the command SHOW au... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOG:END -->
 
 <br />
 
