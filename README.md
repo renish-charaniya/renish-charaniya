@@ -40,15 +40,17 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
 <details>
   <summary><strong>Languages and Tools</strong></summary>
     
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="20" src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg"></code>
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+<img height="20" src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg">
+
 </details>
 
 
@@ -60,14 +62,12 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
 
 <i>❝Elevating backend brilliance: Crafting tomorrow's digital infrastructure, one line of code at a time.❞</i>
 
-| <a href="https://github.com/renish-charaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renish-charaniya&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Sujeet's github stats" /></a> | <a href="https://github.com/renish-charaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renish-charaniya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/renish-charaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renish-charaniya&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Renish's github stats" /></a> | <a href="https://github.com/renish-charaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renish-charaniya&layout=compact&theme=dark&hide_border=true" /></a> |
 | --- | --- |
 | <a href="https://github.com/renish-charaniya/plough-jobs"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=renish-charaniya&repo=plough-jobs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> | <a href="https://github.com/renish-charaniya/jobassure"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=renish-charaniya&repo=jobassure&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> |
-|![](https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=dark&hide_border=true)||
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=dark&hide_border=true">|<img src="https://github-profile-trophy.vercel.app/?username=renish-charaniya&theme=radical&no-frame=false&no-bg=true&margin-w=4">|
 
 
 
-<hr />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=renish-charaniya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
