@@ -62,10 +62,10 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
 
 <i>❝Elevating backend brilliance: Crafting tomorrow's digital infrastructure, one line of code at a time.❞</i>
 
-| <a href="https://github.com/renish-charaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renish-charaniya&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Renish's github stats" /></a> | <a href="https://github.com/renish-charaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renish-charaniya&layout=compact&theme=dark&hide_border=true" /></a> |
+| ![](https://github-readme-stats.vercel.app/api?username=renish-charaniya&theme=neon&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renish-charaniya&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 | --- | --- |
 | <a href="https://github.com/renish-charaniya/plough-jobs"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=renish-charaniya&repo=plough-jobs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> | <a href="https://github.com/renish-charaniya/jobassure"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=renish-charaniya&repo=jobassure&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> |
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=dark&hide_border=true">|<img src="https://github-profile-trophy.vercel.app/?username=renish-charaniya&theme=radical&no-frame=false&no-bg=true&margin-w=4">|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=neon&hide_border=true)|<img src="https://github-profile-trophy.vercel.app/?username=renish-charaniya&theme=radical&no-frame=false&no-bg=true&margin-w=4">|
 
 
 
