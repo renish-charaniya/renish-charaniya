@@ -14,7 +14,7 @@
 
 🙏 Greetings, I am [Renish Charaniya](https://renishcharaniya.tech), and I am a dynamic Backend Software Engineer based in India 🇮🇳.
 
-- 👯 I’m looking to collaborate on [Plough Jobs](https://github.com/renish-charaniya/plough-jobs) and [Job Assure](https://github.com/renish-charaniya/jobassure)
+- 👯 I’m looking to collaborate on [Plough Jobs](https://github.com/renish-charaniya/plough-jobs), [Job Assure](https://github.com/renish-charaniya/jobassure) and [NVD-notifier](https://github.com/renish-charaniya/nvdnotifier)
 - 💬 Ask me about anything [here](https://github.com/renish-charaniya/renish-charaniya/issues)
 - 📚 Read my blog [here](https://renishcharaniya.tech/blog)
 
