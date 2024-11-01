@@ -12,11 +12,11 @@
 </a> 
 <br />
 
-🙏 Greetings, I am [Renish Charaniya](https://renishcharaniya.tech), and I am a dynamic Backend Software Engineer based in India 🇮🇳.
+🙏 Greetings, I am [Renish Charaniya](https://renishcharaniya.tech), and I am a Backend Software Engineer specializing in building cloud-native applications & micro-services.
 
 - 👯 I’m looking to collaborate on [Plough Jobs](https://github.com/renish-charaniya/plough-jobs), [Job Assure](https://github.com/renish-charaniya/jobassure) and [NVD-notifier](https://github.com/renish-charaniya/nvdnotifier)
 - 💬 Ask me about anything [here](https://github.com/renish-charaniya/renish-charaniya/issues)
-- 📚 Read my blog [here](https://renishcharaniya.tech/blog)
+- 📚 Read my blogs [here](https://renishcharaniya.tech/blog)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Code is like humor. When you have to explain it, it’s bad.❞</i> – Cory House
