@@ -62,10 +62,52 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
 
 <i>❝Elevating backend brilliance: Crafting tomorrow's digital infrastructure, one line of code at a time.❞</i>
 
-| ![](https://github-readme-stats.vercel.app/api?username=renish-charaniya&theme=neon&hide_border=true&include_all_commits=true&count_private=true) |![](https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=neon&hide_border=true)|
-| --- | --- |
-|<a href="https://github.com/renish-charaniya/nvdnotifier"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=renish-charaniya&repo=nvdnotifier&text_color=9f9f9f&theme=neon&hide_border=true" /></a>| <a href="https://github.com/renish-charaniya/plough-jobs"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=renish-charaniya&repo=plough-jobs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>  |
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=renish-charaniya&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |<img src="https://github-profile-trophy.vercel.app/?username=renish-charaniya&theme=radical&no-frame=false&no-bg=true&margin-w=4">|
+### 📱 Activity Graph
+
+<img alt="Renish's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=renish-charaniya&theme=tokyo-night&no-bg=true&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=neon&hide_border=false" alt="renish-charaniya" />
+</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=renish-charaniya&theme=neon&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="renish-charaniya" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renish-charaniya&layout=pie&theme=neon&hide_border=true&langs_count=10&hide=html,css,java&exclude_repo=Salary_Estimator&size_weight=0.5" alt="renish-charaniya" />
+    </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renish-charaniya&repo=nvdnotifier&text_color=ffffff&theme=neon&hide_border=true" />
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+### 📈 Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renish-charaniya&theme=radical" width="100%" />
+
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=renish-charaniya&theme=radical&column=9&margin-w=15&margin-h=15&no-bg=true" />
+</p>
+
+
+
+
 
 
 
