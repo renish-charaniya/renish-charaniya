@@ -62,13 +62,15 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
 
 <i>❝Elevating backend brilliance: Crafting tomorrow's digital infrastructure, one line of code at a time.❞</i>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=neon&hide_border=false" alt="renish-charaniya" />
+</p>
+
 ### 📱 Activity Graph
 
 <img alt="Renish's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=renish-charaniya&theme=tokyo-night&no-bg=true&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renish-charaniya&theme=neon&hide_border=false" alt="renish-charaniya" />
-</p>
+
 
 <table>
   <tr>
