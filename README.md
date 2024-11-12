@@ -107,7 +107,11 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
   <img src="https://github-profile-trophy.vercel.app/?username=renish-charaniya&theme=radical&column=9&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renish-charaniya/renish-charaniya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renish-charaniya/renish-charaniya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/renish-charaniya/renish-charaniya/output/github-snake.svg" />
+</picture>
 
 
 
