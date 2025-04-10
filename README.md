@@ -84,7 +84,7 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
 </table>
 
 
-
+<!---
 <table>
   <tr>
     <td>
@@ -94,6 +94,7 @@ Feel free to explore my projects and connect with me. Let’s push the boundarie
     </td>
   </tr>
 </table>
+-->
 
 ### 📈 Contribution Graph
 
