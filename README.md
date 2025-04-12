@@ -14,7 +14,7 @@
 
 🙏 Greetings, I am [Renish Charaniya](https://renishcharaniya.tech), and I am a Backend Software Engineer specializing in building cloud-native applications, micro-services & lot of amazing third-party integrations for enterprise security.
 
-- 👯 I’m looking to collaborate on [Plough Jobs](https://github.com/renish-charaniya/plough-jobs), [Job Assure](https://github.com/renish-charaniya/jobassure) and [NVD-notifier](https://github.com/renish-charaniya/nvdnotifier)
+- 👯 I’m looking to collaborate on [Plough Jobs](https://github.com/renish-charaniya/plough-jobs), [Job Right](https://github.com/renish-charaniya/jobassure) and [NVD-notifier](https://github.com/renish-charaniya/nvdnotifier)
 - 💬 Ask me about anything [here](https://github.com/renish-charaniya/renish-charaniya/issues)
 - 📚 Read my blogs [here](https://renishcharaniya.tech/blog)
 
