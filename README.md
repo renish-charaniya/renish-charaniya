@@ -1,6 +1,6 @@
 ### Hi there, I'm [Renish!](https://renishcharaniya.tech) 👋 
 
-[![](https://visitcount.itsvg.in/api?id=renish-charaniya&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=renish-charaniya&base=786&abbreviated=true&style=for-the-badge&color=red)
 <a href="https://www.linkedin.com/in/renish-charaniya/">
   <img align="left" alt="Renish's Linkedin" width="25px" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/linkedin.svg" />
 </a>
