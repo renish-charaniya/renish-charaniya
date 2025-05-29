@@ -1,4 +1,4 @@
-### Hi there, I'm [Renish!](https://renishcharaniya.tech) 👋 
+### Hi there, I'm [Renish!](https://dub.sh/renish-web) 👋 
 
 ![](https://komarev.com/ghpvc/?username=renish-charaniya&base=786&abbreviated=true&style=for-the-badge&color=red)
 <a href="https://www.linkedin.com/in/renish-charaniya/">
@@ -7,16 +7,16 @@
 <a href="https://twitter.com/bubbikins_royce">
   <img align="left" alt="Renish Charaniya | X" width="25px" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/twitter.svg" />
 </a>
-<a href="https://renishcharaniya.tech/feed.xml">
+<a href="https://renishcharaniya.xyz/feed.xml">
   <img align="left" alt="Renish's blogs" width="25px" src="https://github.com/renish-charaniya/renish-charaniya/blob/main/static/rss.svg" />
 </a> 
 <br />
 
-🙏 Greetings, I am [Renish Charaniya](https://renishcharaniya.tech), and I am a Backend Software Engineer specializing in building cloud-native applications, micro-services & lot of amazing third-party integrations for enterprise security.
+🙏 Greetings, I am [Renish Charaniya](https://dub.sh/renish-web), and I am a Backend Software Engineer specializing in building cloud-native applications, micro-services & lot of amazing third-party integrations for enterprise security.
 
 - 👯 I’m looking to collaborate on [Plough Jobs](https://github.com/renish-charaniya/plough-jobs), [Job Right](https://github.com/renish-charaniya/jobassure) and [NVD-notifier](https://github.com/renish-charaniya/nvdnotifier)
 - 💬 Ask me about anything [here](https://github.com/renish-charaniya/renish-charaniya/issues)
-- 📚 Read my blogs [here](https://renishcharaniya.tech/blog)
+- 📚 Read my blogs [here](https://renishcharaniya.xyz/blog)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Code is like humor. When you have to explain it, it’s bad.❞</i> – Cory House
